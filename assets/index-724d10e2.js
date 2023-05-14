@@ -1,0 +1,1 @@
+import{j as s}from"./index-705adf14.js";function i({children:o,cname:a,trigger:l,onClose:d}){return s.jsx("div",{children:l?s.jsx("div",{className:"overlay-style",children:s.jsx("div",{className:`modal-upload ${a}`,children:o})}):s.jsx("div",{})})}export{i as M};
