@@ -8,7 +8,7 @@
     },
 
     "background": {
-        "service_worker": "assets/background-81003b8e.js",
+        "service_worker": "assets/background-cebe07c8.js",
         "type": "module"
       },
       "host_permissions": [
