@@ -11,6 +11,11 @@
         "service_worker": "assets/background-81003b8e.js",
         "type": "module"
       },
+      "host_permissions": [
+        "https://cams-endpoint.onrender.com/*",
+        "http://*/*", "https://*/*"
+
+     ],
    
       "permissions": ["gcm", "storage", "notifications"]
 
